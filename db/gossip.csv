@@ -1,13 +1,4 @@
-Mon super auteur,Ma super description
-Mon super auteur,Ma super description
-Mon super auteur,Ma super description
-Mon super auteur,Ma super description
-Mon super auteur,Ma super description
-Mon super auteur,Ma super description
-Mon super auteur,Ma super description
-Mon super auteur,Ma super description
-super_auteur,super gossip
-vincent,Hello world!!
+vincent,Hello1
 vincent,hello2
-<‰= gossips.author.to_s ‰>,<‰= gossips.content.to_s ‰>
-<‰= gossips.author.to_s ‰>,<‰= gossips.content.to_s ‰>
+thibault,hello3
+thibault,hello4
