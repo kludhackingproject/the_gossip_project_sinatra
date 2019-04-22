@@ -43,6 +43,8 @@ class Gossip
       # end
       #
 
+      #self.all[delete_index].author = new_authour
+      #self.all[delete_index].content = new_content
 
       table = CSV.open("./db/gossip.csv", 'w')
 
@@ -50,5 +52,4 @@ class Gossip
         row[delete_index] == true
       end
     end
-
 end
