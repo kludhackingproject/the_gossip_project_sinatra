@@ -9,3 +9,5 @@ Mon super auteur,Ma super description
 super_auteur,super gossip
 vincent,Hello world!!
 vincent,hello2
+<‰= gossips.author.to_s ‰>,<‰= gossips.content.to_s ‰>
+<‰= gossips.author.to_s ‰>,<‰= gossips.content.to_s ‰>

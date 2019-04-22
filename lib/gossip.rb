@@ -33,4 +33,19 @@ class Gossip
       return all_gossips[id]
     end
 
+    def self.update(gossip, delete_index)
+        
+      gossips.delete_at(delete_index-1)
+        
+        #CSV.open(@@csv,"w") do |csv|
+         
+          #csv = ""
+        #end
+        #gossips.each {
+          #|gossip|
+          #gossip.save
+        #}
+    end 
+
+
 end
